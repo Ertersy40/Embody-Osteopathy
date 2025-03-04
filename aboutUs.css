@@ -48,11 +48,11 @@ body {
 }
 
 .imageDivider.massage{
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/massage.png');
+    background-image: url('/Assets/edward-muntinga.webp');
 }
 
 .imageDivider.knee {
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/knee.png');
+    background-image: url('Assets/edward-muntinga2.webp');
 }
 
 .commonIssues {
@@ -132,7 +132,7 @@ body {
 .practitioner img {
     border-radius: 5px;
     width: 272px;
-    height: 100%;
+    height: 375px;
     object-fit: cover;
     margin-bottom: 10px;
 }
@@ -145,7 +145,7 @@ body {
     color: var(--background-text-color);
     text-align: left;
     width: 272px;
-    margin-top: 10px;
+    margin-top: 0;
     margin-bottom: 15px;
 }
 
@@ -246,16 +246,22 @@ body {
     padding-inline: 60px;
     align-items: center;
     justify-content: center;
-    display: grid;
-    grid-template-columns: 1fr;
+    display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 30px;
     margin-bottom: 100px;
 }
 
 .receptionists img {
     width: 200px;
     border-radius: 5px;
+}
+
+.receptionist p{
+    margin-top: 10px;
+    font-size: 1.3rem;
+    font-weight: 500;
+
 }
 
 /* Responsive Design */

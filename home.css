@@ -127,7 +127,7 @@
 
 .imageSeparator.fire{
     background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Treatment.webp');
-    background-position-y: 70%;
+    background-position-y: 65%;
 }
 
 .imageSeparator.tea{
@@ -150,10 +150,15 @@
     align-items: center;
     justify-content: center;
     /* margin-block: 20px; */
+    
 }
 
 .service.row2 {
     margin-top: 20px;
+}
+
+.services a {
+    text-decoration: none;
 }
 
 .services .service p {
@@ -164,6 +169,7 @@
     font-weight: 600;
     line-height: 1.3em;
     font-size: 0.9em;
+    text-decoration: none;
 }
 
 .service-img-container {
