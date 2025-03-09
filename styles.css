@@ -282,8 +282,9 @@ footer h3:not(footer .contact h3) {
     }
 
     .footerSections {
-        width: 60%;
+        width: 100%;
         min-width: 700px;
+        gap: 10px;
         display: flex;
         flex-direction: row;
         justify-content: space-between;
