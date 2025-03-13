@@ -50,12 +50,12 @@ body {
 .imageDivider.massage{
     object-fit: cover;
     background-position-y: 50%;
-    background-image: url('/Assets/ima_837931e.jpg');
+    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/ima_837931e.jpg');
 }
 
 .imageDivider.knee {
     background-position-y: 67%;
-    background-image: url('/Assets/ima_a168fcf (2).jpg');
+    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/ima_a168fcf (2).jpg');
 }
 
 .commonIssues {
