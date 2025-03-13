@@ -1,11 +1,5 @@
 [
     {
-      "name": "Kathryn Williams",
-      "locations": "Eltham & Panton Hill",
-      "headshot": "../Assets/headshots/Kath.webp",
-      "description": "Kathryn graduated as an Osteopath from RMIT University in 1998 and spent the next four years working in Osteopathic clinics in Sydney, Melbourne and country Victoria  with experienced Osteopaths treating a wide range of conditions in varied groups of people.<br/><br/>Kathryn settled in Melbourne and drawing on her previous years of experience and knowledge set about establishing Embody Healthcare in Greensborough.  She opened the clinic in October 2002 and as the clinic has grown Kathryn has welcomed new Osteopaths and staff to her team.<br/><br/>As Kathryn’s family also grew, she has brought her work closer to home, offering appointments in both Eltham and Panton Hill.  Please call Eltham on 94341974 if you wish to book an appointment with Kathryn at the Panton Hill studio."
-    },
-    {
       "name": "Kristy Biermans",
       "locations": "Eltham",
       "headshot": "../Assets/headshots/Kristy.webp",
@@ -28,6 +22,12 @@
       "locations": "Eltham",
       "headshot": "../Assets/headshots/Amanda.webp",
       "description": "Amanda graduated in 2013 from RMIT University with a Bachelor of Applied Science (Complementary Medicine) and a Masters of Osteopathy.<br/><br/>She treats patients of all ages using a holistic approach that targets pain and promotes optimal overall function. Amanda has enhanced her practice with courses in treating pregnant and paediatric patients, as well as Clinical Pilates, Dry Needling, Rocktaping, and Cupping. She also works in sports rehab, having aided athletes including Melbourne Victory’s Women’s Soccer team.<br/><br/>In her spare time, Amanda plays netball, enjoys time with her family and Scottish terrier, Hamish. She is registered with the Australian Health Practitioner Regulation Agency and is a member of the Australian Osteopathic Association."
+    },
+    {
+      "name": "Kathryn Williams",
+      "locations": "Eltham & Panton Hill",
+      "headshot": "../Assets/headshots/Kath.webp",
+      "description": "Kathryn graduated as an Osteopath from RMIT University in 1998 and spent the next four years working in Osteopathic clinics in Sydney, Melbourne and country Victoria  with experienced Osteopaths treating a wide range of conditions in varied groups of people.<br/><br/>Kathryn settled in Melbourne and drawing on her previous years of experience and knowledge set about establishing Embody Healthcare in Greensborough.  She opened the clinic in October 2002 and as the clinic has grown Kathryn has welcomed new Osteopaths and staff to her team.<br/><br/>As Kathryn’s family also grew, she brought her work closer to home, now offering appointments in both Eltham and Panton Hill.  Please call Eltham on 94341974 if you wish to book an appointment with Kathryn at the Panton Hill studio."
     }
   ]
   
