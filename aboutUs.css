@@ -49,12 +49,13 @@ body {
 
 .imageDivider.massage{
     object-fit: cover;
-    object-position: 90%;
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Treatment_PantonHill (5).jpg');
+    background-position-y: 50%;
+    background-image: url('/Assets/ima_837931e.jpg');
 }
 
 .imageDivider.knee {
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Treatment_PantonHill (4).jpg');
+    background-position-y: 67%;
+    background-image: url('/Assets/ima_a168fcf (2).jpg');
 }
 
 .commonIssues {
@@ -194,11 +195,11 @@ body {
     background-color: var(--primary-color);
     z-index: 0;
     position: absolute;
-    top: -1px;
+    top: 0px;
     height: 45px;
     width: 272px;
     margin-top: 1px;
-    padding-inline:  16.2px;
+    padding-inline:  16.1px;
     border-radius: 40px;
     overflow-y: hidden;
     transition: all 0.3s ease-in-out;
