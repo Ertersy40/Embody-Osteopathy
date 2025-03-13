@@ -50,12 +50,12 @@ body {
 .imageDivider.massage{
     object-fit: cover;
     background-position-y: 50%;
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Neck Adjust.jpg');
+    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Neck Adjust.webp');
 }
 
 .imageDivider.knee {
     background-position-y: 67%;
-    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Back Adjust.jpg');
+    background-image: url('https://ertersy40.github.io/Embody-Osteopathy/Assets/Back Adjust.webp');
 }
 
 .commonIssues {
