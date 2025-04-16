@@ -31,6 +31,10 @@
     text-wrap: nowrap;
 }
 
+.contact-us .openHrs {
+    max-width: 350px;
+}
+
 .openHrs ol {
     padding-right: 0;
 }

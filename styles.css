@@ -271,6 +271,9 @@ footer h3:not(footer .contact h3) {
     text-align: center;
 }
 
+.closedNotice {
+    max-width: 260px;
+}
 
 @media screen and (min-width: 850px) {
     :root {
