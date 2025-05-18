@@ -268,7 +268,7 @@ body {
 }
 
 /* Responsive Design */
-@media (min-width: 770px) {
+@media (min-width: 880px) {
     .receptionists {
         flex-direction: row;
     }
