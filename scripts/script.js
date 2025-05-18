@@ -1,11 +1,14 @@
 document.addEventListener('DOMContentLoaded', () => {
   const hash = window.location.hash;
   if (!hash) return;
+  console.log("Hash!")
 
   // Let the browser do its native jump first
   requestAnimationFrame(() => {
     const target = document.querySelector(hash);
     if (!target) return;
+    console.log("Target!")
+
 
     // Pull your nav height, strip non-digits
     const navHeight =
