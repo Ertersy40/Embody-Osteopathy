@@ -17,7 +17,7 @@
     background-size: cover;
     background-position: 45%;
     font-style: normal;
-    margin-top: var(--nav-height);
+    /* margin-top: var(--nav-height); */
 }
 
 .heroBanner {

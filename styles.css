@@ -254,6 +254,18 @@ footer .dayTime>* {
     flex-direction: column;
 }
 
+.announcement {
+    background-color: var(--secondary-color);
+    color: var(--primary-text-color);
+    padding: 1em 2em;
+    margin-top: var(--nav-height);
+}
+
+.announcement a {
+    color: #0F0F0F;
+    text-decoration: none;
+}
+
 footer h3 {
     margin-bottom: 20px;
     font-size: 0.9rem;
@@ -275,6 +287,11 @@ footer h3:not(footer .contact h3) {
     max-width: 260px;
 }
 
+@media screen and (min-width: 620px) {
+    .announcement {
+        text-align: center;
+    }
+}
 @media screen and (min-width: 850px) {
     :root {
         --padding-side: 4.2em;

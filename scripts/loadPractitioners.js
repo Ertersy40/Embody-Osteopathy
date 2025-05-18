@@ -7,6 +7,8 @@ document.addEventListener("DOMContentLoaded", () => {
             data.forEach(practitioner => {
                 const practitionerElement = document.createElement("div");
                 practitionerElement.classList.add("practitioner");
+                practitionerElement.id = practitioner.id;
+
 
                 practitionerElement.innerHTML = `
                     <div className="profile">
