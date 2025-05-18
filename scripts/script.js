@@ -16,7 +16,7 @@ window.addEventListener("load", function() {
         // Adjust the scroll position
         window.scrollTo({
           top: offsetPosition,
-          behavior: "smooth" // Optional smooth scroll
+          // behavior: "smooth" // Optional smooth scroll
         });
       }
     }
