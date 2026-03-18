@@ -257,6 +257,9 @@ body {
 
 .receptionists img {
     width: 200px;
+    height: 220px;
+    overflow: hidden;
+    object-fit: cover;
     border-radius: 5px;
 }
 
