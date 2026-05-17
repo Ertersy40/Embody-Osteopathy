@@ -140,6 +140,14 @@ body {
     margin-bottom: 10px;
 }
 
+.headshot-placeholder {
+    border-radius: 5px;
+    width: 272px;
+    height: 375px;
+    margin-bottom: 10px;
+    background-color: var(--primary-color, #7c9a8e);
+}
+
 .deskName{
     display: none;
 }
@@ -351,7 +359,8 @@ body {
         padding: 2rem 1rem;
     }
 
-    .practitioner img {
+    .practitioner img,
+    .headshot-placeholder {
         width: 296.59px;
         height: 400px;
         margin-right: 20px;

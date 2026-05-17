@@ -15,9 +15,14 @@ document.addEventListener("DOMContentLoaded", () => {
         el.classList.add("practitioner");
         el.id = p.id;
 
+        // Build headshot: either an <img> or a coloured placeholder
+        const headshotHTML = (!p.headshot || p.headshot === 'NA')
+          ? `<div class="headshot headshot-placeholder" aria-label="${p.name}'s headshot"></div>`
+          : `<img src="${p.headshot}" alt="${p.name}'s headshot" class="headshot">`;
+
         el.innerHTML = `
                     <div className="profile">
-                        <img src="${p.headshot}" alt="${p.name}'s headshot" class="headshot">
+                        ${headshotHTML}
                         <p class="locations">${p.locations}</p>
                         <h4 class="deskName">${p.name}</h4>
                     </div>
