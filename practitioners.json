@@ -1,38 +1,17 @@
 [
     {
-      "id": "kristy",
-      "name": "Kristy Biermans",
-      "locations": "Eltham",
-      "headshot": "../Assets/headshots/Kristy.webp",
-      "description": "Kristy qualified as an osteopath in 1998 from RMIT University.  She has worked in Sydney, Ireland and The Netherlands and joined Embody Healthcare Osteopathy in 2006. She has completed further studies in Biodynamic Osteopathy in the Cranial Field (Phases 1 to 9), dry needling, paediatrics and pregnancy, scoliosis, sports taping, vertigo and tendinopathy rehabilitation as part of her Continuing Professional Development.<br/><br/>As a parent herself, Kristy has an interest in treating babies, children and adolescents, as well as in pregnancy and women's health, including perimenopause. Kristy enjoys the gym and fitness classes in her spare time,  and realises the importance of including exercise prescription in a patient's treatment plan to ensure full recovery and further injury prevention."
-    },
-    {
-      "id": "jasmine",
-      "name": "Jasmine Laird",
-      "locations": "Eltham",
-      "headshot": "../Assets/headshots/Jas.webp",
-      "description": "Jasmine graduated in 2019 from RMIT University with a Bachelor of Health Sciences and a Bachelor of Applied Science (Osteopathy). During her time studying and treating as an osteopath she has developed a passion for helping people, and community health and wellbeing.<br/><br/>Jasmine enjoys treating a variety of ages and conditions by employing patient centred care. She will ensure that she discusses with you any conditions/injuries, treatments, exercise and management, and lifestyle changes.<br/><br/>In her spare time you can find Jasmine training for a multitude of sports and activities. She has been in many teams and can understand the frustrations of injuries. This helps her to develop proactive movement-based treatment plans so her patients can enjoy a pain-free lifestyle and continue enjoying all their activities."
-    },
-    {
-      "id": "kathryn",
-      "name": "Kathryn Williams",
-      "locations": "Eltham & Panton Hill",
-      "headshot": "../Assets/headshots/Kath.webp",
-      "description": "Kathryn graduated as an Osteopath from RMIT University in 1998 and spent the next four years working in Osteopathic clinics in Sydney, Melbourne and country Victoria  with experienced Osteopaths treating a wide range of conditions in varied groups of people.<br/><br/>Kathryn settled in Melbourne, and drawing on her previous years of experience and knowledge, she set about establishing Embody Healthcare in Greensborough. She opened the clinic in October 2002, and as the clinic has grown, Kathryn has welcomed new Osteopaths and staff to her team.<br/><br/>As Kathryn's family also grew, she brought her work closer to home, now offering appointments in both Eltham and Panton Hill.  Please call Eltham on 94341974 if you wish to book an appointment with Kathryn at the Panton Hill studio."
-    },
-    {
-      "id": "amanda",
-      "name": "Amanda Bell",
-      "locations": "Eltham",
-      "headshot": "../Assets/headshots/Amanda.webp",
-      "description": "Amanda graduated in 2013 from RMIT University with a Bachelor of Applied Science (Complementary Medicine) and a Masters of Osteopathy.<br/><br/>She treats patients of all ages using a holistic approach that targets pain and promotes optimal overall function. Amanda has enhanced her practice with courses in treating pregnant and paediatric patients, as well as Clinical Pilates, Dry Needling, Rocktaping, and Cupping. She also works in sports rehab, having aided athletes including Melbourne Victory's Women's Soccer team.<br/><br/>In her spare time, Amanda plays netball, enjoys time with her family and Scottish terrier, Hamish. She is registered with the Australian Health Practitioner Regulation Agency and is a member of the Australian Osteopathic Association. For appointments with Amanda, please contact reception."
-    },
-    {
       "id": "nathan",
       "name": "Nathan Switkowski",
       "locations": "Eltham",
       "headshot": "../Assets/headshots/Nathan.webp",
       "description": "Nathan graduated from RMIT in 2017 with a Bachelor of Applied Science (Osteopathy) and a Bachelor of Health Science. Growing up in Melbourne's North East, he discovered osteopathy as a young athlete recovering from debilitating lower back pain. He has since built a career around helping others move and feel better. His experience includes time as a sports trainer with the Western Bulldogs, and he brings a hands-on, exercise-based approach to treatment. Nathan values patient education and creating clear, personalised plans, and is also trained in dry needling, cupping, Pilates, and tendon rehab.<br/><br/>Outside the clinic, Nathan enjoys running and competitive basketball. He and his partner are new parents to baby Joey — and he's happily taking parenting tips from patients!"
+    },
+    {
+      "id": "emma",
+      "name": "Emma Cronin",
+      "locations": "Eltham",
+      "headshot": "../Assets/headshots/Emma.webp",
+      "description": "Emma graduated from RMIT university in 2015 with a Bachelor of Health Science/Bachelor of Applied Science (Osteopathy). Since then she has enjoyed treating patients from school age children to the elderly and everyone in between.<br/><br/>Emma has undertaken various courses to continue to widen her knowledge base and skills. She has grown up in the local area and has been involved with various groups and sporting clubs, including competing for 25 years at Eltham Calisthenic College.<br/><br/>Outside of work Emma has her hands busy with two growing boys. "
     },
     {
       "id": "elly",
@@ -42,11 +21,32 @@
       "description": "Elly graduated from RMIT University with a Bachelor of Health Science and a Bachelor of Applied Science (Osteopathy). She is also a therapist/trainer at the North Melbourne Football Club, where she manages injuries, supports rehabilitation, and helps optimise athletic performance.<br/><br/>Elly discovered her passion for osteopathy after a basketball injury as a teenager, inspiring her to pursue a career helping others recover and perform at their best. She takes a holistic, patient-centred approach, tailoring treatment to each individual's goals and lifestyle.<br/><br/>Elly is a certified Pilates instructor (Cert IV in reformer and matwork) and integrates movement-based rehabilitation with hands-on techniques. She enjoys treating sports injuries, pregnancy-related discomfort, and general musculoskeletal pain, and also incorporates cupping and dry needling into her treatments."
     },
     {
-      "id": "emma",
-      "name": "Emma Cronin",
+      "id": "jasmine",
+      "name": "Jasmine Laird",
       "locations": "Eltham",
-      "headshot": "NA",
-      "description": "Emma graduated from RMIT university in 2015 with a Bachelor of Health Science/Bachelor of Applied Science (Osteopathy). Since then she has enjoyed treating patients from school age children to the elderly and everyone in between.<br/><br/>Emma has undertaken various courses to continue to widen her knowledge base and skills. She has grown up in the local area and has been involved with various groups and sporting clubs, including competing for 25 years at Eltham Calisthenic College.<br/><br/>Outside of work Emma has her hands busy with two growing boys. "
+      "headshot": "../Assets/headshots/Jas.webp",
+      "description": "Jasmine graduated in 2019 from RMIT University with a Bachelor of Health Sciences and a Bachelor of Applied Science (Osteopathy). During her time studying and treating as an osteopath she has developed a passion for helping people, and community health and wellbeing.<br/><br/>Jasmine enjoys treating a variety of ages and conditions by employing patient centred care. She will ensure that she discusses with you any conditions/injuries, treatments, exercise and management, and lifestyle changes.<br/><br/>In her spare time you can find Jasmine training for a multitude of sports and activities. She has been in many teams and can understand the frustrations of injuries. This helps her to develop proactive movement-based treatment plans so her patients can enjoy a pain-free lifestyle and continue enjoying all their activities."
+    },
+    {
+      "id": "amanda",
+      "name": "Amanda Bell",
+      "locations": "Eltham",
+      "headshot": "../Assets/headshots/Amanda.webp",
+      "description": "Amanda graduated in 2013 from RMIT University with a Bachelor of Applied Science (Complementary Medicine) and a Masters of Osteopathy.<br/><br/>She treats patients of all ages using a holistic approach that targets pain and promotes optimal overall function. Amanda has enhanced her practice with courses in treating pregnant and paediatric patients, as well as Clinical Pilates, Dry Needling, Rocktaping, and Cupping. She also works in sports rehab, having aided athletes including Melbourne Victory's Women's Soccer team.<br/><br/>In her spare time, Amanda plays netball, enjoys time with her family and Scottish terrier, Hamish. She is registered with the Australian Health Practitioner Regulation Agency and is a member of the Australian Osteopathic Association. For appointments with Amanda, please contact reception."
+    },
+    {
+      "id": "kristy",
+      "name": "Kristy Biermans",
+      "locations": "Eltham",
+      "headshot": "../Assets/headshots/Kristy.webp",
+      "description": "Kristy qualified as an osteopath in 1998 from RMIT University.  She has worked in Sydney, Ireland and The Netherlands and joined Embody Healthcare Osteopathy in 2006. She has completed further studies in Biodynamic Osteopathy in the Cranial Field (Phases 1 to 9), dry needling, paediatrics and pregnancy, scoliosis, sports taping, vertigo and tendinopathy rehabilitation as part of her Continuing Professional Development.<br/><br/>As a parent herself, Kristy has an interest in treating babies, children and adolescents, as well as in pregnancy and women's health, including perimenopause. Kristy enjoys the gym and fitness classes in her spare time,  and realises the importance of including exercise prescription in a patient's treatment plan to ensure full recovery and further injury prevention."
+    },
+    {
+      "id": "kathryn",
+      "name": "Kathryn Williams",
+      "locations": "Eltham & Panton Hill",
+      "headshot": "../Assets/headshots/Kath.webp",
+      "description": "Kathryn graduated as an Osteopath from RMIT University in 1998 and spent the next four years working in Osteopathic clinics in Sydney, Melbourne and country Victoria  with experienced Osteopaths treating a wide range of conditions in varied groups of people.<br/><br/>Kathryn settled in Melbourne, and drawing on her previous years of experience and knowledge, she set about establishing Embody Healthcare in Greensborough. She opened the clinic in October 2002, and as the clinic has grown, Kathryn has welcomed new Osteopaths and staff to her team.<br/><br/>As Kathryn's family also grew, she brought her work closer to home, now offering appointments in both Eltham and Panton Hill.  Please call Eltham on 94341974 if you wish to book an appointment with Kathryn at the Panton Hill studio."
     },
     {
       "id": "jessica",
