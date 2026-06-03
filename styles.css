@@ -259,6 +259,9 @@ footer .dayTime>* {
     color: var(--primary-text-color);
     padding: 1em 2em;
     margin-top: var(--nav-height);
+    display: flex;
+    flex-direction: column;
+    gap: 0.75em;
 }
 
 .announcement a {
