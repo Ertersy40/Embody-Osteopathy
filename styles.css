@@ -1,3 +1,13 @@
+/* Arial metrics adjusted to match Lexend, so the font swap doesn't shift the layout */
+@font-face {
+    font-family: 'Lexend Fallback';
+    src: local('Arial');
+    size-adjust: 109.3%;
+    ascent-override: 91.5%;
+    descent-override: 22.9%;
+    line-gap-override: 0%;
+}
+
 :root{
     --background-color: #ECEADA;
     --background-text-color: #0F0F0F;
@@ -20,7 +30,7 @@
 }
 
 body, html {
-    font-family: 'Lexend', sans-serif;
+    font-family: 'Lexend', 'Lexend Fallback', sans-serif;
     color: red;
     margin: 0px;
     padding: 0px;
